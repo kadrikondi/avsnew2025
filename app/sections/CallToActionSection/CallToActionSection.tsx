@@ -48,14 +48,14 @@ export const CallToActionSection = () => {
                       About
                     </Link>
                   </li>
-{/*                   <li>
+                  <li>
                     <Link
                       href="/services"
                       className="text-[#F9F6F6] text-[15px] leading-[19.5px] tracking-[-0.3px] hover:underline"
                     >
                       Services
                     </Link>
-                  </li> */}
+                  </li>
                   <li>
                     <Link
                       href="/work"
@@ -64,14 +64,14 @@ export const CallToActionSection = () => {
                       Our work
                     </Link>
                   </li>
-{/*                   <li>
+                  <li>
                     <Link
                       href="/contact"
                       className="text-[#F9F6F6] text-[15px] leading-[19.5px] tracking-[-0.3px] hover:underline"
                     >
                       Contact
                     </Link>
-                  </li> */}
+                  </li>
                 </ul>
               </nav>
 
